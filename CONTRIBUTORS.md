@@ -29,5 +29,5 @@ United Kingdom - https://github.com/cu-sanjay/HacktoberFest2023/assets/96792511/
 |[Srijita](https://github.com/SrijitaBaksi)   | <img src="https://github.com/cu-sanjay/HacktoberFest2023/assets/96792511/5adfd776-ce7e-4467-92dd-727a12239cd1" alt="India" width="32" height="32">   |Coding enthusiast, learning DSA , languages known -C ,C++,Java,Python , Learning full stack web development|
 |[Ritik](https://github.com/iKoNFlair)   | <img src="https://github.com/cu-sanjay/HacktoberFest2023/assets/96792511/5adfd776-ce7e-4467-92dd-727a12239cd1" alt="India" width="32" height="32">   | I'm a passionate full-stack web developer with a strong foundation in both web techs as well as in DSA. |
 |[Adit](https://github.com/adit26data)   | <img src="https://github.com/cu-sanjay/HacktoberFest2023/assets/96792511/5adfd776-ce7e-4467-92dd-727a12239cd1" alt="India" width="32" height="32">   | I am a B.Tech student with knowledge of full stack web development and currently engaged in competitive coding. |
-
+|[Manul](https://github.com/manul28)   | <img src="https://github.com/cu-sanjay/HacktoberFest2023/assets/96792511/5adfd776-ce7e-4467-92dd-727a12239cd1" alt="India" width="32" height="32">   | I am a B.Tech student with knowledge of Machine Learning (and python) and currently engaged in competitive coding. |
 
